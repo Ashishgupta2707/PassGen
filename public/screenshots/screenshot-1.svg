@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Password Generator screenshot placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0b1220" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)" />
+  <rect x="80" y="80" width="1120" height="560" rx="12" fill="#0f172a" stroke="#1f2937" stroke-width="2" />
+  <text x="120" y="140" fill="#d1fae5" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Password Generator — placeholder</text>
+
+  <!-- mock input -->
+  <rect x="120" y="180" width="880" height="70" rx="8" fill="#0b1220" stroke="#334155" />
+  <text x="140" y="225" fill="#9ca3af" font-family="monospace" font-size="22">P@ssw0rd!example</text>
+
+  <!-- mock controls -->
+  <rect x="1020" y="200" width="120" height="44" rx="8" fill="#10b981" />
+  <text x="1040" y="230" fill="#06121a" font-family="Arial" font-size="16" font-weight="700">Generate</text>
+
+  <!-- toggles -->
+  <g fill="#cbd5e1" font-family="Arial" font-size="16">
+    <text x="140" y="300">Uppercase ✅</text>
+    <text x="140" y="340">Lowercase ✅</text>
+    <text x="140" y="380">Numbers ✅</text>
+    <text x="140" y="420">Symbols ❌</text>
+  </g>
+
+  <text x="120" y="540" fill="#94a3b8" font-family="Arial" font-size="14">This is a placeholder image. Replace with a real screenshot by adding an image to <tspan font-family="monospace">public/screenshots</tspan>.</text>
+</svg>
