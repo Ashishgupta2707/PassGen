@@ -5,7 +5,7 @@ A small, responsive password generator built with React, Vite and Tailwind CSS.
 ## Demo
 
 
-![App screenshot - generator view](public/screenshots/screenshot-1.svg)
+![App screenshot - generator view](public/screenshots/screenshots.png)
 
 
 ## Features
