@@ -4,11 +4,9 @@ A small, responsive password generator built with React, Vite and Tailwind CSS.
 
 ## Demo
 
-Below is an example screenshot embedded from `public/screenshots` so you can see how images will render when served by Vite or viewed on Git hosting.
 
-![App screenshot - generator view](/screenshots/screenshot-1.svg)
+![App screenshot - generator view](public/screenshots/screenshot-1.svg)
 
-Add your own screenshots to the `public/screenshots` folder and include them below. See the "Screenshots" section for details and an example.
 
 ## Features
 
@@ -25,14 +23,14 @@ Add your own screenshots to the `public/screenshots` folder and include them bel
 - PostCSS
 - ESLint
 
-## Repository structure (important files)
+<!-- ## Repository structure (important files)
 
 - `index.html` — app entry HTML served by Vite
 - `src/main.jsx` — React entry
 - `src/App.jsx` — main app and UI (password generator logic)
 - `src/index.css`, `src/App.css` — styles (Tailwind + custom)
 - `tailwind.config.js`, `postcss.config.js` — Tailwind/PostCSS setup
-- `package.json` — scripts and dependencies
+- `package.json` — scripts and dependencies -->
 
 ## Getting started (development)
 
@@ -84,7 +82,7 @@ Small changes and improvements are welcome. Suggested flow:
 ## License
 
 This project currently has no license specified. If you want to make it open-source, add a `LICENSE` file (for example an MIT license).
-
+<!-- 
 ## Contact
 
 If you want help improving this README or the app, tell me which screenshots you'd like included and I can add example images and updated docs.
@@ -103,4 +101,4 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 ## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project. -->
