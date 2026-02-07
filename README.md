@@ -1,6 +1,6 @@
 # Password Generator
 
-A small, responsive password generator built with React, Vite and Tailwind CSS.
+A modern React-based password generator that creates secure, customizable passwords with real-time options and one-click copy functionality.
 
 ## Demo
 
